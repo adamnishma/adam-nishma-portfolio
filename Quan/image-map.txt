@@ -1,0 +1,6 @@
+Header.png = Header visual
+Platform1.png = The solution: A holistic wellness platform image 1
+Platform2.png = The solution: A holistic wellness platform image 2
+UserFlows-cocreation.png = Feature Spotlight: The Co-Creation Wizard
+RITUALBUILD.mov = Co-creation wizard live example (as a video)
+UserFlows-tradeoffs.png = Navigating Scope: Visualizing the Trade-offs

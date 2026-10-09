@@ -1,0 +1,5 @@
+SIAB2EXAMPLE.mov = video of design (solution) in action
+header.png = Design image one, used in site's header
+SIAB4.png = Design image two, used in site's header
+SIAB2.png = wireframe focused on progress bar markers solution
+SIAB1.png = generic overall wireframes image

@@ -1,0 +1,17 @@
+DIGIB-Stockswap_Page_02.jpg = Wireframes image 01
+DIGIB-Stockswap_Page_03.jpg = Wireframes image 02
+DIGIB-Stockswap_Page_04.jpg = Wireframes image 03
+DIGIB-Stockswap_Page_05.jpg = Wireframes image 04
+DIGIB-Stockswap_Page_07.jpg = Wireframes image 05
+DIGIB-Stockswap_Page_09.jpg = Wireframes image 06
+DIGIB-Stockswap_Page_10.jpg = Wireframes image 07
+DIGIB-Stockswap_Page_12.jpg = Wireframes image 08
+DIGIB-Stockswap_Page_13.jpg = Wireframes image 09
+DIGIB-Stockswap_Page_15.jpg = Wireframes image 10
+DIGIB-Stockswap_Page_17.jpg = Wireframes image 11
+DIGIB-Stockswap_Page_20.jpg = Wireframes image 12
+DIGIB-Stockswap_Page_21.jpg = Wireframes image 13
+DIGIB-Stockswap_Page_23.jpg = Wireframes image 14
+DIGIB-Stockswap_Page_25.jpg = Wireframes image 15
+POST.png = example of design part 1
+WANTED.pnd = example of design part 2
